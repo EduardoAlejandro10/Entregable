@@ -1,0 +1,28 @@
+.quote-container {
+    margin: 0 0 5rem 0;
+}
+
+.quote {
+    font-size: 1.2rem;
+}
+
+.fa-quote-left {
+    font-size: 5rem;
+    text-align: left;
+    width: 100%;
+    display: block;
+}
+
+.author {
+    text-align: right;
+    width: 90%;
+    display: block;
+}
+
+@media only screen and (min-width: 992px) {
+
+    .quote {
+        font-size: 1.5rem;
+    }
+
+}
